@@ -10,5 +10,5 @@ alias gpo='git push origin -u $(git branch --show-current)'
 alias gamend="git commit --amend"
 alias grmb="git branch -D"
 ``` 
-Last updated: Fri Dec 31 16:13:43 UTC 2021
+Last updated: Fri Dec 31 16:25:48 UTC 2021
 
