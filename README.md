@@ -3,12 +3,7 @@
 Just a collection of github aliases that I found useful 
 
 ```
-alias gcm='git commit -m "[$(git branch --show-current)] -'
-alias gcb="git checkout -b"
-alias gs="git status"
-alias gpo='git push origin -u $(git branch --show-current)'
-alias gamend="git commit --amend"
-alias grmb="git branch -D"
+
 ``` 
-Last updated: Fri Dec 31 10:48:52 EST 2021
+Last updated: Fri Dec 31 11:00:18 EST 2021
 
