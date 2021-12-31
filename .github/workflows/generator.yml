@@ -26,8 +26,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Update README.md with contents of `alias` file
-        run: |
-         "${GITHUB_WORKSPACE}/.github/readme_generator.sh > ${GITHUB_WORKSPACE}/README.md"
+        run: "${GITHUB_WORKSPACE}/.github/readme_generator.sh > ${GITHUB_WORKSPACE}/README.md"
         
       - uses: EndBug/add-and-commit@v7
         with:
