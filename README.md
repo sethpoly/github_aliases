@@ -13,5 +13,10 @@ alias grmc="git rm -r --cached ."
 alias gp="git pull"
 alias gc="git checkout"
 ``` 
-Last updated: Wed Jan  5 16:07:53 UTC 2022
+## How to use
+- Clone this repo wherever you desire
+- In your `~/.bash_profile`, add `source PATH/TO/github_aliases/alias`
+- In a fresh shell session, `cd ~`, then `source .bash_profile`
+
+Last updated: Thu Jan 13 14:01:26 UTC 2022
 
