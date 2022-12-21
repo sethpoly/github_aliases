@@ -12,11 +12,12 @@ alias grmb="git branch -D"
 alias grmc="git rm -r --cached ."
 alias gp="git pull"
 alias gc="git checkout"
+alias gf="git fetch"
 ``` 
 ## How to use
 - Clone this repo wherever you desire
 - In your `~/.bash_profile`, add `source PATH/TO/github_aliases/alias`
 - In a fresh shell session, `cd ~`, then `source .bash_profile`
 
-Last updated: Thu Jan 13 14:01:26 UTC 2022
+Last updated: Wed Dec 21 14:57:46 UTC 2022
 
